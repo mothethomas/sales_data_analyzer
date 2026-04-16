@@ -46,6 +46,7 @@ This project demonstrates practical **data analysis and visualization skills**, 
 
 ## Project Structure
 
+
 sales_data_analyzer/
 ├── analysis.py
 ├── sales_data.csv

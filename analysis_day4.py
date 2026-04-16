@@ -51,3 +51,4 @@ df["TotalSales"] = df["Quantity"] * df["Price"]
 print("Dataset with TotalSales after cleaning:")
 print(df)
 print()
+
